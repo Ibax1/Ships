@@ -1,0 +1,2 @@
+Team: Aibar Axubayev,
+Pitch: System with map showing ships, cities, ports, tracks in real time. You can see the goods they carry. There will be "pages" to search goods with different functions. Probably will make fake map and simulation.
